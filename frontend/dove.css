@@ -1,0 +1,37 @@
+blockquote.custom {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+}
+blockquote.custom:before {
+  color: #ccc;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote.custom p {
+  display: inline;
+}
+.table-condensed{
+  font-size: 12px;
+}
+	.leftDiv
+	{
+		width: 50%;
+		height: 100%;
+		float: left;
+	}
+	.rightDiv
+	{
+		width: 50%;
+		height: 100%;
+		float: right;
+	}
+        .centerDiv
+        {
+                width: 100%;
+                height: 100%;
+        }		
+.container { overflow: hidden; }
